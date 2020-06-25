@@ -1,4 +1,4 @@
-## Channel Embedding for Informative Protein Identification from Highly Multiplexed Images
+# Channel Embedding for Informative Protein Identification from Highly Multiplexed Images
 Salma Abdel Magid Won-Dong Jang Denis Schapiro Donglai Wei Peter Sorger Hanspeter Pfister
 [https://www.biorxiv.org/content/10.1101/2020.03.24.004085v1.article-metrics]url(bioXriv)
 
