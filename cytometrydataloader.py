@@ -21,7 +21,7 @@ from torchvision import transforms
 
 
 class DataPreparation(object):
-    root_path = '/n/pfister_lab2/Lab/wdjang/single_cell_clustering/dataset/imaging_mass_cytometry'
+    root_path = "#imc root path here"
     tiff_rootPath = os.path.join(root_path, 'OMEnMasks/ome')
     def __init__(self, gt_type='survival'):
         self.gt_type = gt_type
@@ -163,7 +163,7 @@ class DataPreparation(object):
     
 
 class BioformatTiffreader(object):
-    root_path = '/n/pfister_lab2/Lab/wdjang/single_cell_clustering/dataset/imaging_mass_cytometry'
+    root_path = "#imc root path here"
     tiff_rootPath = os.path.join(root_path, 'OMEnMasks/ome')
 
     def __init__(self, prepared_data, img_size=224, phase_str='train'):
