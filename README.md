@@ -1,4 +1,4 @@
-CODE WILL BE PUSHED HERE SOON. There are some platform issues that need to be resolved. Will push - 9/20/20
+
 
 # Channel Embedding for Informative Protein Identification from Highly Multiplexed Images
 Salma Abdel Magid, Won-Dong Jang, Denis Schapiro, Donglai Wei, James Tompkin, Peter Sorger, Hanspeter Pfister
