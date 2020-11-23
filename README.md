@@ -1,6 +1,7 @@
 
 
 # Channel Embedding for Informative Protein Identification from Highly Multiplexed Images
+## MICCAI 2020
 Salma Abdel Magid, Won-Dong Jang, Denis Schapiro, Donglai Wei, James Tompkin, Peter Sorger, Hanspeter Pfister
 
 [bioXriv](https://www.biorxiv.org/content/10.1101/2020.03.24.004085v1.article-metrics)
